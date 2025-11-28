@@ -1,8 +1,6 @@
-version: "3.8"
-
 services:
   mongodb:
-    image: mongo:6
+    image: mongo:latest
     container_name: mongodb
     restart: always
     ports:
@@ -11,24 +9,26 @@ services:
       - mongo_data:/data/db
 
   backend:
-    build: ./backend
+    image: aryan132/backend
     container_name: backend
     restart: always
     ports:
-      - "5000:5000"
+      - "8080:8080"
     depends_on:
       - mongodb
     environment:
-      - DB_URL=mongodb://mongodb:27017/dddb
+      - DB_URL=mongodb://mongodb:27017/dd_db
 
   frontend:
-    build: ./frontend
+    image: aryan132/frontend
     container_name: frontend
     restart: always
     ports:
-      - "80:80"
+      - "8081:80"
     depends_on:
       - backend
 
 volumes:
-  mongo_data:
+  mongo_data: {}
+
+
