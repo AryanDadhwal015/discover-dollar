@@ -111,5 +111,7 @@ An Elastic IP was also assigned to ensure the application IP remain same even af
 ![Screenshot 70](images/Screenshot%20(70).png)
 ![Screenshot 71](images/Screenshot%20(71).png)
 ![Screenshot 72](images/Screenshot%20(72).png)
+![Screenshot 2025-11-29 164103](images/Screenshot%202025-11-29%20164103.png)
+
 
 
