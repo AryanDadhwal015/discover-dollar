@@ -79,5 +79,5 @@ An Nginx reverse proxy was configured to:
 Route frontend and backend traffic cleanly
 Prevent direct exposure of application ports
 Provide a single public endpoint for users
-An Elastic IP was also assigned to ensure the application remains reachable even after EC2 restarts.
+An Elastic IP was also assigned to ensure the application IP remain same even after restart .
 
