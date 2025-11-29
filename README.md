@@ -81,3 +81,35 @@ Prevent direct exposure of application ports
 Provide a single public endpoint for users
 An Elastic IP was also assigned to ensure the application IP remain same even after restart .
 
+## Application Screenshots
+
+![Screenshot 45](images/Screenshot%20(45).png)
+![Screenshot 46](images/Screenshot%20(46).png)
+![Screenshot 47](images/Screenshot%20(47).png)
+![Screenshot 48](images/Screenshot%20(48).png)
+![Screenshot 49](images/Screenshot%20(49).png)
+![Screenshot 50](images/Screenshot%20(50).png)
+![Screenshot 51](images/Screenshot%20(51).png)
+![Screenshot 52](images/Screenshot%20(52).png)
+![Screenshot 53](images/Screenshot%20(53).png)
+![Screenshot 54](images/Screenshot%20(54).png)
+![Screenshot 55](images/Screenshot%20(55).png)
+![Screenshot 56](images/Screenshot%20(56).png)
+![Screenshot 57](images/Screenshot%20(57).png)
+![Screenshot 58](images/Screenshot%20(58).png)
+![Screenshot 59](images/Screenshot%20(59).png)
+![Screenshot 60](images/Screenshot%20(60).png)
+![Screenshot 61](images/Screenshot%20(61).png)
+![Screenshot 62](images/Screenshot%20(62).png)
+![Screenshot 63](images/Screenshot%20(63).png)
+![Screenshot 64](images/Screenshot%20(64).png)
+![Screenshot 65](images/Screenshot%20(65).png)
+![Screenshot 66](images/Screenshot%20(66).png)
+![Screenshot 67](images/Screenshot%20(67).png)
+![Screenshot 68](images/Screenshot%20(68).png)
+![Screenshot 69](images/Screenshot%20(69).png)
+![Screenshot 70](images/Screenshot%20(70).png)
+![Screenshot 71](images/Screenshot%20(71).png)
+![Screenshot 72](images/Screenshot%20(72).png)
+
+
